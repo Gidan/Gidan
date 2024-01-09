@@ -17,6 +17,7 @@ Passionate about technology, software and visual arts.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 #### Experimenting with
+![Rust](https://img.shields.io/badge/rust-%23c94300.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
