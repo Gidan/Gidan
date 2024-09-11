@@ -19,6 +19,7 @@ Passionate about technology, software and visual arts.
 
 #### Experimenting with
 ![Rust](https://img.shields.io/badge/rust-%23c94300.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![RayLib](https://img.shields.io/badge/RayLib-ffffff?style=for-the-badge)
