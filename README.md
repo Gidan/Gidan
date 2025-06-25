@@ -1,6 +1,6 @@
 ### About me
 
-Senior software developer with 10+ years of experience in developing HMI and Mobile applications for the Automotive industry. 
+Software developer with 10+ years of experience in developing HMI and Mobile applications for the Automotive industry. 
 Passionate about technology, software and visual arts.
 
 #### Main Programming Languages & Frameworks
